@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856c2331dd20a56468bd0e1fd10586a7, type: 3}
+  m_Name: l2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 4900000, guid: 94985c94e4a26e1479467597873aa527, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Socials
+      Entry: 7
+      Data: 0|LocalSocial, Assembly-CSharp
+    - Name: Text
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+  Name: Coast
+  DatasetName: level_2
+  Background: {fileID: 21300000, guid: 3f91331724a9da84197e9b6d94f0483c, type: 3}
+  BackgroundColor: {r: 0.49411762, g: 0.9205448, b: 1, a: 1}
+  LevelTarget:
+    Image: {fileID: -3593825655368743532, guid: 8e9fb67c8f40a1a418ceac0dd98dde19, type: 3}
+    NumberOfClicks: 20
+    Bonuses:
+    - {fileID: 11400000, guid: 70a496f1e9d866741bf05f84357a20f0, type: 2}
+    - {fileID: 11400000, guid: 1d34cb8d0d5f07040abcbb6681a115eb, type: 2}
+    - {fileID: 11400000, guid: 14d84a959737e914484e91357dae1c16, type: 2}

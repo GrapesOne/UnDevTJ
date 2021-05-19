@@ -1,42 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbd7d647-19dd-48a7-92cf-2deaa2b8939c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Assembly-CSharp-firstpass.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/PackageManager/ProjectCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/PackageManager/ProjectCache.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Sirenix.OdinInspector.CompatibilityLayer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Sirenix.OdinInspector.CompatibilityLayer.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/Sirenix.OdinInspector.Modules.UnityMathematics.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/UniTask.Addressables.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/UniTask.Addressables.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/UniTask.DOTween.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/UniTask.DOTween.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/UniTask.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/UniTask.Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/UniTask.Linq.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/UniTask.Linq.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/UniTask.TextMeshPro.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/UniTask.TextMeshPro.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnDevTJ/UniTask.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnDevTJ/UniTask.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="cbd7d647-19dd-48a7-92cf-2deaa2b8939c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UnDevTJ" />
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../edu-market/Assets/Work Directory/GrapesWG_Michael/Random/RandomHolder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Levels/ContentMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Socials/RecordInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonuses/BonusObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Socials/LocalSocial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonuses/BonusBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../edu-market/Assets/Work Directory/GrapesWG_Michael/Quests/QuestList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonuses/SizeBonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Levels/LevelData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BonusForTapping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Socials/RecordModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Socials/UrlSocial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonuses/StopMoveBonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Levels/LevelPreview.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../LongWayDown/Assets/obsolete/Scripts/Player/Trajectory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Socials/LeaderboardCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonuses/TwoTapsBonus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Levels/LevelHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectForTapping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Settings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../edu-market/Assets/Work Directory/GrapesWG_Michael/Quests/CharacterQuestsData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Socials/SocialBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bonuses/BonusInUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TargetData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../edu-market/Assets/Work Directory/GrapesWG_Michael/Quests/QuestEditor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -69,7 +65,6 @@
     </option>
   </component>
   <component name="ProjectId" id="1seEP9hTpDAMVkRX6aKIcJIMcOr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -86,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621224629861</updated>
-      <workItem from="1621224637771" duration="42936000" />
+      <workItem from="1621224637771" duration="42336000" />
     </task>
     <servers />
   </component>
